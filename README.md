@@ -1,20 +1,15 @@
 <h1 align="left"> Hi 👋  I’m  Gleydson Rodrigues </h1>
 
- ![This is an image](/img/github-readme-banner.png)
-
-<ul align="left">
-  <li>
-:baby: Junior Web Developer & Learning
-
-:office: I’m currently working at Möller GmHb (Not Web Dev related)
-
-:eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time
-
-💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping
-
-:book: I´m learning Node, EJS, React, React Native, Typescript...
-  </li>
-</ul>
+<section align="left">
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="right" src="/img/github-readme-banner.png" style="max-width: 100%;"></a></p>
+<ul style="max-width: 20%;">
+  <li> :baby: Junior Web Developer & Learning
+  <li> :office: I’m currently working at Möller GmHb (Not Web Dev related)
+  <li> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time
+  <li> 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping
+  <li> :book: I´m learning Node, EJS, React, React Native, Typescript...
+ </ul>
+</section>
 
 🛠  Tech Stack
 JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite 
