@@ -10,11 +10,10 @@
   <li> :book: I´m learning Node, EJS, React, React Native, Typescript...
  </ul>
 </section>
+<p></p>
 <section align="left; height: 370px">
-
-🛠  Tech Stack
-JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite 
-
+<h2>🛠  Tech Stack</h2>
+<p>JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite</p>
 </section>
 
 
