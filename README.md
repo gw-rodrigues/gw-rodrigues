@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi 👋  I’m  Gleydson Rodrigues
+
+:baby: Junior Web Developer & Learning
+
+:office: I’m currently working at Möller GmHb (Not Web Dev related)
+
+:eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time
+
+💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping
+
+:book: I´m learning Node, EJS, React, React Native, Typescript...
+
+🛠  Tech Stack
+JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite 
 
 <!--
 **gw-rodrigues/gw-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
