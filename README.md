@@ -1,5 +1,9 @@
-# Hi 👋  I’m  Gleydson Rodrigues
+<h1 align="left"> Hi 👋  I’m  Gleydson Rodrigues </h1>
 
+ ![This is an image](/img/github-readme-banner.png)
+
+<ul align="left">
+  <li>
 :baby: Junior Web Developer & Learning
 
 :office: I’m currently working at Möller GmHb (Not Web Dev related)
@@ -9,11 +13,13 @@
 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping
 
 :book: I´m learning Node, EJS, React, React Native, Typescript...
+  </li>
+</ul>
 
 🛠  Tech Stack
 JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite 
 
-![This is an image](/img/github-readme-banner.png)
+
 
 
 <!--
