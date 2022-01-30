@@ -1,4 +1,4 @@
-### Hi 👋  I’m  Gleydson Rodrigues
+# Hi 👋  I’m  Gleydson Rodrigues
 
 :baby: Junior Web Developer & Learning
 
@@ -12,6 +12,9 @@
 
 🛠  Tech Stack
 JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite 
+
+![This is an image](/img/github-readme-banner.png)
+
 
 <!--
 **gw-rodrigues/gw-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
