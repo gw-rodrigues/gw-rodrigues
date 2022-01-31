@@ -5,23 +5,18 @@
 <div>
   <p>&nbsp; </p><p>&nbsp; </p>
   <p> :baby: Junior Web Developer & Learning </p>
-  <p></p>
   <p> :office: I’m currently working at Möller GmHb (Not Web Dev related) </p>
-  <p></p>
   <p> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time </p>
-  <p></p>
   <p> 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping </p>
-  <p></p>
   <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
-  <p>&nbsp; </p><p>&nbsp; </p>
+  <p>&nbsp; </p><p>&nbsp; </p><p>&nbsp; </p>
  </div>
 </section>
-<p></p>
-<section align="left" style="padding-top:100px">
-<h2>🛠  Tech Stack</h2>
-<p>JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite</p>
-</section>
 
+<section align="left">
+<h2>🛠  Tech Stack</h2>
+<p><img align="right" src="/img/javascript.svg" style="max-width: 100%;"> <img align="right" src="/img/nodejs.svg" style="max-width: 100%;">  <img align="right" src="/img/html.svg" style="max-width: 100%;">  <img align="right" src="/img/css.svg" style="max-width: 100%;">  <img align="right" src="/img/react.svg" style="max-width: 100%;">  <img align="right" src="/img/git.svg" style="max-width: 100%;">  <img align="right" src="/img/github.svg" style="max-width: 100%;">  <img align="right" src="/img/markdown.svg" style="max-width: 100%;">  <img align="right" src="/img/vscode.svg" style="max-width: 100%;">  <img align="right" src="/img/sqlite.svg" style="max-width: 100%;"></p>
+</section>
 
 
 <!--
