@@ -7,7 +7,7 @@
   <p> :baby: Junior Web Developer & Learning </p>
   <p> :office: I’m currently working at Möller GmHb (Not Web Dev related) </p>
   <p> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time </p>
-  <p> 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping </p>
+  <p> 💬 Talk with me about JavaScript, HTML, CSS, SQL </p>
   <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
   <p>&nbsp; </p><p>&nbsp; </p><p>&nbsp; </p>
  </div>
