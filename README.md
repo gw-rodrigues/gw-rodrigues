@@ -2,13 +2,19 @@
 
 <section align="left" height="390vh">
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="right" src="/img/github-readme-banner.png" style="max-width: 100%;"></a></p>
-<ul>
-  <li> :baby: Junior Web Developer & Learning </li>
-  <li> :office: I’m currently working at Möller GmHb (Not Web Dev related) </li>
-  <li> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time </li>
-  <li> 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping </li>
-  <li> :book: I´m learning Node, EJS, React, React Native, Typescript... </li>
- </ul>
+<div>
+  <p>&nbsp; </p><p>&nbsp; </p>
+  <p> :baby: Junior Web Developer & Learning </p>
+  <p></p>
+  <p> :office: I’m currently working at Möller GmHb (Not Web Dev related) </p>
+  <p></p>
+  <p> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time </p>
+  <p></p>
+  <p> 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping </p>
+  <p></p>
+  <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
+  <p>&nbsp; </p><p>&nbsp; </p>
+ </div>
 </section>
 <p></p>
 <section align="left" style="padding-top:100px">
