@@ -3,33 +3,19 @@
 <section align="left" height="390vh">
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="right" src="/img/github-readme-banner.png" style="max-width: 100%;"></a></p>
 <ul>
-  <li> :baby: Junior Web Developer & Learning
-  <li> :office: I’m currently working at Möller GmHb (Not Web Dev related)
-  <li> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time
-  <li> 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping
-  <li> :book: I´m learning Node, EJS, React, React Native, Typescript...
+  <li> :baby: Junior Web Developer & Learning </li>
+  <li> :office: I’m currently working at Möller GmHb (Not Web Dev related) </li>
+  <li> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time </li>
+  <li> 💬 Ask me about JavaScript, HTML, CSS, SQL - i will try helping </li>
+  <li> :book: I´m learning Node, EJS, React, React Native, Typescript... </li>
  </ul>
 </section>
 <p></p>
-<section align="left">
+<section align="left" style="padding-top:100px">
 <h2>🛠  Tech Stack</h2>
 <p>JavaScript  Node.js  HTML  CSS  React  Git  GitHub  Markdown  Visual Studio Code  PostgreSQL  SQLite</p>
 </section>
 
-<table>
-<thead>
-<tr>
-<th align="center">abc</th>
-<th align="right">defghi</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="    width: 30em;">bar</td>
-<td align="right" style="    width: 30em;">baz</td>
-</tr>
-</tbody>
-</table>
 
 
 <!--
