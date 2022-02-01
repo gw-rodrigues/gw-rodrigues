@@ -2,10 +2,10 @@
 
 <p>
   <a target="_self" href="https://github.com/gw-rodrigues">
-      <img align="left" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
+      <img align="center" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
   </a>
   <a target="_self" href="https://github.com/gw-rodrigues">
-      <img align="left" src="https://img.shields.io/github/followers/gw-rodrigues.svg?style=social&label=Follow&maxAge=2592000">
+      <img align="center" src="https://img.shields.io/github/followers/gw-rodrigues.svg?style=social&label=Follow&maxAge=2592000">
   </a>
 </p>
 <section>
@@ -48,30 +48,30 @@
 
   ## 🛠  Technologies
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/visual studio code-404D59?style=for-the-badge&logo=visualstudio&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/visual studio code-404D59?style=for-the-badge&logo=visualstudio&logoColor=white" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white" style="max-width: 100%;"></a>
   
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/Github-7f7f7f?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Github-7f7f7f?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;"></a>
 
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/Express.js-e9ad39?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Express.js-e9ad39?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"></a>
 
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="max-width: 100%;"></a>
 
 
 
@@ -87,7 +87,7 @@
 
   <p>
     <a href="https://github.com/gw-rodrigues?tab=repositories">
-      <img align="left" width="auto" height="130em"  src="https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+      <img align="center" width="auto" height="130em"  src="https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" />
     </a>
     </p>
     <p>
