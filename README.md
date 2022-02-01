@@ -1,15 +1,14 @@
-<h1 align="left">  </h1>
 
 <section>
-  <P>
-  
-  # Hi 👋  I’m  Gleydson Rodrigues
+  <h1>
+  <p> 
+   Hi 👋  I’m  Gleydson Rodrigues
 
-    <a target="_self" href="https://github.com/gw-rodrigues">
+  <a target="_self" href="https://github.com/gw-rodrigues">
       <img align="right" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
     </a>
-    
-  </P>
+  </p>
+  </h1>
 </section>
 <br/>
 <section>
