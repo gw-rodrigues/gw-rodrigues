@@ -1,4 +1,4 @@
-#  Hello,  👋   I’m  Gleydson Rodrigues
+#  👋  Hello, I’m  Gleydson Rodrigues
 
 <p>
   <a target="_self" href="https://github.com/gw-rodrigues">
@@ -20,12 +20,30 @@
   <br/><br/><br/>
   <p> :baby: Junior Web Developer & Learning </p>
   <p> :office: I’m currently working at Möller GmHb (Not Web Dev related) </p>
-  <p> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time </p>
+  <p> :eyes: Looking to work at Web Dev (front- and back-end) </p>
   <p> 💬 Talk with me about JavaScript, HTML, CSS, SQL </p>
   <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
 </section>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
+
+<section>
+
+<a target="_self" href="https://www.instagram.com/gwrodrigues/">
+  <img align="right" width="137em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a target="_self" href="https://twitter.com/gwRzz">
+  <img align="right" width="111em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+<a target="_self" href="https://www.linkedin.com/in/gleyds0n/">
+  <img align="right" width="123em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</section>
+
+<br/><br/><br/>
 
 <section>
 
