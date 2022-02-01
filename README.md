@@ -38,11 +38,11 @@
 
 # ⚙️ GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&card_width=200&theme=tokyonight)]([Website])
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&card_width=200&theme=tokyonight)]()
 
 <a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gw-rodrigues&layout=compact)]([Website])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gw-rodrigues&layout=compact)]()
 
 </a>
 
