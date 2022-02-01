@@ -57,8 +57,6 @@
   | <a href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/Github-7f7f7f?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a> |||
   | <a href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;"></a> |||
   | <a href="https://github.com/gw-rodrigues"><img align="left" src="https://img.shields.io/badge/visual studio code-404D59?style=for-the-badge&logo=visualstudio&logoColor=white" style="max-width: 100%;"></a> |||
-  
-  <br/><br/>
 
   ##
 
