@@ -8,7 +8,6 @@
       <img align="left" src="https://img.shields.io/github/followers/gw-rodrigues.svg?style=social&label=Follow&maxAge=2592000">
   </a>
 </p>
-<br/>
 <section>
   
   <p>
@@ -25,7 +24,7 @@
   <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
 </section>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <section>
 
