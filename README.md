@@ -23,20 +23,30 @@
   <br/>
 
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/nodejs.svg" style="max-width: 100%;"></a>
+
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/html.svg" style="max-width: 100%;"></a>
+
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/css.svg" style="max-width: 100%;"></a>
+
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/react.svg" style="max-width: 100%;"></a>
+
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/git.svg" style="max-width: 100%;"></a>
+
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/github.svg" style="max-width: 100%;"></a>
+
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/markdown.svg" style="max-width: 100%;"></a>
+
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/vscode.svg" style="max-width: 100%;"></a>
-  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/sqlite.svg" style="max-width: 100%;"></p></a>
+
+  <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/sqlite.svg" style="max-width: 100%;"></a>
+
+  <br/>
+
+  ##
 
 </section>
 
-<br/>
 
-##
 
 <br/><br/><br/>
 
