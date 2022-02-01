@@ -14,11 +14,13 @@
   <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
 </section>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <section>
 
   ## 🛠  Tech Stack
+
+  <br/>
 
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/nodejs.svg" style="max-width: 100%;"></a>
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/html.svg" style="max-width: 100%;"></a>
