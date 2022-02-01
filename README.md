@@ -1,22 +1,18 @@
+#  Hello,  👋   I’m  Gleydson Rodrigues
 
-<section>
-  <h1>
-  <p>
-   Hi 👋  I’m  Gleydson Rodrigues
-   </p>
-
-  <a target="_self" href="https://github.com/gw-rodrigues">
+<p>
+    <a target="_self" href="https://github.com/gw-rodrigues">
       <img align="right" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
     </a>
-  </h1>
-</section>
+</p>
 <br/>
 <section>
-  <P>
+  
+  <p>
     <a target="_self" href="https://github.com/gw-rodrigues">
       <img align="right" src="./github-readme-banner.png">
     </a>
-  </P>
+  </p>
   
   <br/><br/><br/>
   <p> :baby: Junior Web Developer & Learning </p>
