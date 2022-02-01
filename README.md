@@ -28,7 +28,6 @@
 
   ## 🛠  Technologies
 
-  <p>
 
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/nodejs.svg" style="max-width: 100%;"></a>
 
@@ -48,7 +47,6 @@
 
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/sqlite.svg" style="max-width: 100%;"></a>
 
-  </p>
 
   <br/>
 
@@ -56,9 +54,7 @@
 
 </section>
 
-
-
-<br/><br/><br/>
+<br/><br/>
 
 <section>
 
