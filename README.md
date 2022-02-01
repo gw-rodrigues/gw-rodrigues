@@ -30,15 +30,15 @@
 <section>
 
 <a target="_self" href="https://www.instagram.com/gwrodrigues/">
-  <img align="right" width="137em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img align="right" width="120em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a target="_self" href="https://twitter.com/gwRzz">
-  <img align="right" width="111em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <img align="right" width="101em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
 <a target="_self" href="https://www.linkedin.com/in/gleyds0n/">
-  <img align="right" width="123em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="right" width="106em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </section>
