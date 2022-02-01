@@ -46,7 +46,7 @@
 
 <section>
 
-  ## 🛠  Technologies
+  ##
 
   | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-....Experience....%20-green?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-....Learning....%20-yellow?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-......Future......%20-red?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-.....New Techs.....%20-blue?style=for-the-badge" width="auto" height="40em"></a> |
   |---|---|---|---|
