@@ -1,11 +1,21 @@
 <h1 align="left"> Hi 👋  I’m  Gleydson Rodrigues </h1>
 
 <section>
+
+<P>
+    <a target="_self" href="https://github.com/gw-rodrigues">
+      <img align="right" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
+    </a>
+  </P>
+</section>
+<br/>
+<section>
   <P>
     <a target="_self" href="https://github.com/gw-rodrigues">
       <img align="right" src="./github-readme-banner.png">
     </a>
   </P>
+  
   <br/><br/><br/>
   <p> :baby: Junior Web Developer & Learning </p>
   <p> :office: I’m currently working at Möller GmHb (Not Web Dev related) </p>
@@ -18,9 +28,7 @@
 
 <section>
 
-  ## 🛠  Tech Stack
-
-  <br/>
+  ## 🛠  Technologies
 
   <p>
 
