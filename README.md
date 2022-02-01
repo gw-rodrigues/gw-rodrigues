@@ -12,14 +12,13 @@
   <p> :eyes:  I’m currently looking to work at Web Dev (front- and back-end) full- or partial-time </p>
   <p> 💬 Talk with me about JavaScript, HTML, CSS, SQL </p>
   <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
-  <br/><br/><br/><br/>
 </section>
 
+<br/><br/><br/><br/>
 
-<section align="left">
+<section>
 
 ## 🛠  Tech Stack
-#
 
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/nodejs.svg" style="max-width: 100%;"></a>
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/html.svg" style="max-width: 100%;"></a>
@@ -30,14 +29,16 @@
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/markdown.svg" style="max-width: 100%;"></a>
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/vscode.svg" style="max-width: 100%;"></a>
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/sqlite.svg" style="max-width: 100%;"></p></a>
+
+##
+
 </section>
 
-<p>&nbsp; </p><p>&nbsp; </p>
+<br/><br/><br/><br/>
 
 <section>
 
   ## ⚙️ GitHub Analytics
-  #
 
   <p>
     <a href="https://github.com/gw-rodrigues?tab=repositories">
