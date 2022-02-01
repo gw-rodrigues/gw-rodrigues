@@ -24,7 +24,7 @@
   <p> :book: I´m learning Node, EJS, React, React Native, Typescript... </p>
 </section>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <section>
 
@@ -42,7 +42,7 @@
 
 </section>
 
-<br/><br/><br/>
+<br/><br/>
 
 <section>
 
