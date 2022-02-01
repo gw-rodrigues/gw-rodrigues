@@ -1,10 +1,12 @@
 
 <section>
   <h1>
+  <p>
    Hi 👋  I’m  Gleydson Rodrigues
+   </p>
 
   <a target="_self" href="https://github.com/gw-rodrigues">
-      <img align="right" height="30em" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
+      <img align="right" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
     </a>
   </h1>
 </section>
