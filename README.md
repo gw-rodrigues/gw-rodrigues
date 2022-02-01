@@ -17,7 +17,9 @@
 
 
 <section align="left">
-<h2>🛠  Tech Stack</h2>
+
+## 🛠  Tech Stack
+#
 
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/nodejs.svg" style="max-width: 100%;"></a>
   <a target="_self" rel="noopener noreferrer" href="https://github.com/gw-rodrigues"><img align="left" src="/img/html.svg" style="max-width: 100%;"></a>
@@ -34,7 +36,8 @@
 
 <section>
 
-  # ⚙️ GitHub Analytics
+  ## ⚙️ GitHub Analytics
+  #
 
   <p>
     <a href="https://github.com/gw-rodrigues?tab=repositories">
