@@ -2,10 +2,10 @@
 
 <p>
   <a target="_self" href="https://github.com/gw-rodrigues">
-      <img align="right" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
+      <img align="left" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
   </a>
   <a target="_self" href="https://github.com/gw-rodrigues">
-      <img align="right" src="https://img.shields.io/github/followers/gw-rodrigues.svg?style=social&label=Follow&maxAge=2592000">
+      <img align="left" src="https://img.shields.io/github/followers/gw-rodrigues.svg?style=social&label=Follow&maxAge=2592000">
   </a>
 </p>
 <br/>
@@ -74,8 +74,6 @@
   ##
 
 </section>
-
-<br/>
 
 <section>
 
