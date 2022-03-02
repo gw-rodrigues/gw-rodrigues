@@ -18,22 +18,22 @@
   
   <br><br>
   <p>〔 beginning 〕⟹﹛<br>
-    &nbsp;&nbsp;&nbsp;› Started my carrer in IT in 2008 after join a course; <br>
-    &nbsp;&nbsp;&nbsp;› Was when start to love programming!!!.<br>
+    &nbsp;&nbsp;&nbsp;› Started my career in IT in 2008 after join a course; <br>
+    &nbsp;&nbsp;&nbsp;› When start to love programming!!!.<br>
 ﹜</p>
 <p>〔 historic 〕⟹﹛<br>
     &nbsp;&nbsp;&nbsp;› After start in 2008, i got obsessed in programming universe.<br>
     &nbsp;&nbsp;&nbsp;› So, i decided keep studing and done some courses bellow:<br>
-    &nbsp;&nbsp;&nbsp;› Instaling, Reaparing IS, IT Technichial and Business Managment and IT degree.<br>
+    &nbsp;&nbsp;&nbsp;› Installing, Repairing IS, IT Technical and Business Managment and IT degree.<br>
     &nbsp;&nbsp;&nbsp;› I started the university in IT, not concluded, explain bellow.<br>
     &nbsp;&nbsp;&nbsp;› Meanwhile, im updating to the new techs, learning in digital plataforms like rocketseat.com.br.<br>
 ﹜</p>
   
 <p>〔 difficulties 〕⟹﹛<br>
-    &nbsp;&nbsp;&nbsp;› While studing, i was with some difficults, i passed almost all, not one "Finacial".<br>
-    &nbsp;&nbsp;&nbsp;› Personal reason, finacial, i was force to stop, drop the University.<br>
+    &nbsp;&nbsp;&nbsp;› While studying, i was with some difficulties, i passed almost all, not one "Financial".<br>
+    &nbsp;&nbsp;&nbsp;› Personal reason, financial, i was force to stop, drop the University.<br>
     &nbsp;&nbsp;&nbsp;› With one objective, back to IT and university soon as possible and mastery it.<br>
-    &nbsp;&nbsp;&nbsp;› Actually, im studing, updating and mastering some new technologies to come back!<br>
+    &nbsp;&nbsp;&nbsp;› Actually, im studying, updating and mastering some new technologies to come back!<br>
 ﹜</p>
 </section>
 
