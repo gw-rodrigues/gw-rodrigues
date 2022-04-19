@@ -17,7 +17,21 @@
   </p>
   
   <br><br>
-  <p>〔 beginning 〕⟹﹛<br>
+  
+  ```javascript
+    interface Profiles {
+  ```
+  🔸 [beginning](#beginning) <a name="beginning"></a>
+  🔸 [historic](#historic) <a name="historic"></a> 
+  🔸 [difficulties](#difficulties) <a name="difficulties"></a> 
+  🔸 [techs](#techs) <a name="techs"></a> 
+  🔸 [Analytics](#Analytics) <a name="Analytics"></a>
+  ```javascript
+    }
+
+    ( myProfile: Profiles ) => (
+  ```
+  <p>〔 beginning 〕⟹﹛<br/>
     &nbsp;&nbsp;&nbsp;› Started my career in IT in 2008 after join a course; <br>
     &nbsp;&nbsp;&nbsp;› When start to love programming!!!.<br>
 ﹜</p>
@@ -29,12 +43,17 @@
     &nbsp;&nbsp;&nbsp;› Meanwhile, im updating to the new techs, learning in digital plataforms like rocketseat.com.br.<br>
 ﹜</p>
   
-<p>〔 difficulties 〕⟹﹛<br>
+<p>
+  
+〔 difficulties 〕⟹﹛<br>
     &nbsp;&nbsp;&nbsp;› While studying, i was with some difficulties, i passed almost all, not one "Financial".<br>
     &nbsp;&nbsp;&nbsp;› Personal reason, financial, i was force to stop, drop the University.<br>
     &nbsp;&nbsp;&nbsp;› With one objective, back to IT and university soon as possible and mastery it.<br>
     &nbsp;&nbsp;&nbsp;› Actually, im studying, updating and mastering some new technologies to come back!<br>
-﹜</p>
+﹜
+  
+ 
+  </p>
 </section>
 
 <section>
