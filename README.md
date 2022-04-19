@@ -46,6 +46,7 @@
   ```
   
   [🔝 back to interface](#menu)
+  <br/>
   
    <div align="right">
     <a target="_self" href="https://www.instagram.com/gwrodrigues/">
@@ -139,4 +140,5 @@
 </section>
 
 <br/>
+
 [🔝 back to interface](#menu)
