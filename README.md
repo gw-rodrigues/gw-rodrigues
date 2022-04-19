@@ -99,10 +99,12 @@
   | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;"></a> ||||
   | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/visual studio code-404D59?style=for-the-badge&logo=visualstudio&logoColor=white" style="max-width: 100%;"></a> ||||
 
-  <a name="analytics" id="analytics"></a>
-  ##
-
 </section>
+
+<a name="analytics" id="analytics"></a>
+
+##
+<br/>
 
 [🔝 back to interface](#profile)
 
