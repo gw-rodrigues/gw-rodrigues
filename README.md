@@ -21,11 +21,17 @@
   ```javascript
     interface Profiles {
   ```
+  <p style="text-align: center;">
+    
   🔸 [beginning](#beginning)
   🔸 [historic](#historic)
-  🔸 [difficulties](#difficulties) 
+  🔸 [difficulties](#difficulties)
+  </p>
+  <p style="text-align: center;">
+    
   🔸 [techs](#techs)
   🔸 [analytics](#analytics)
+  </p>
   
   <a name="beginning" id="beginning"></a>
   
