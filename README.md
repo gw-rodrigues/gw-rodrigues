@@ -1,5 +1,5 @@
 #  👋  Hello, I’m  Gleydson Rodrigues
-
+<a name="profile" id="profile"></a>
 <p>
   <a target="_self" href="https://github.com/gw-rodrigues">
       <img align="left" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
@@ -34,7 +34,6 @@
 
     ( myProfile: Profiles ) => (
   ```
-  
   <a name="historic" id="historic"></a>
   
   <p>〔 beginning 〕⟹﹛<br/>
@@ -42,6 +41,7 @@
     &nbsp;&nbsp;&nbsp;› When start to love programming!!!.<br>
 ﹜</p>
   
+  [🔝 back to interface](#profile)
   <a name="difficulties" id="difficulties"></a>
   
 <p>〔 historic 〕⟹﹛<br>
@@ -51,6 +51,8 @@
     &nbsp;&nbsp;&nbsp;› I started the university in IT, not concluded, explain bellow.<br>
     &nbsp;&nbsp;&nbsp;› Meanwhile, im updating to the new techs, learning in digital plataforms like rocketseat.com.br.<br>
 ﹜</p>
+  
+  [🔝 back to interface](#profile)
 
 <p>
 〔 difficulties 〕⟹﹛<br>
@@ -80,7 +82,7 @@
 
 <br/><br/>
 
-<a name="analytics" id="analytics"></a>
+[🔝 back to interface](#profile)
 
 <section>
 
@@ -97,14 +99,16 @@
   | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;"></a> ||||
   | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/visual studio code-404D59?style=for-the-badge&logo=visualstudio&logoColor=white" style="max-width: 100%;"></a> ||||
 
+  <a name="analytics" id="analytics"></a>
   ##
 
 </section>
 
+[🔝 back to interface](#profile)
+
 <section>
-
+  
   ## ⚙️ GitHub Analytics
-
   <p>
     <a href="https://github.com/gw-rodrigues?tab=repositories">
       <img align="left" width="auto" height="125em"  src="https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" />
@@ -117,19 +121,3 @@
   </p>
 
 </section>
-
-
-<!--
-**gw-rodrigues/gw-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
