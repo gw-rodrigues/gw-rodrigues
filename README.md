@@ -34,7 +34,7 @@
   </div>
   
   <a name="beginning"></a> 
-  <br/>
+  <br/><br/>
   
   ```javascript
   〔 beginning : Profile 〕⟹﹛
@@ -60,8 +60,8 @@
     </a>
   </div>
   
-  <br/><br/>
   <a name="historic"></a>
+  <br/><br/>
   
   ```javascript
   〔 historic : Profile 〕⟹﹛
@@ -77,9 +77,8 @@
   
   [🔝 back to interface](#menu)
   
-  <br/><br/>
   <a name="difficulties" id="difficulties"></a>
-  
+  <br/><br/>
   
   ```javascript
   〔 difficulties : Profile 〕⟹﹛
@@ -95,8 +94,8 @@
   
 </section>
 
-<br/><br/>
 <a name="techs" id="techs"></a>
+<br/><br/>
 
 <section name="techs">
 
@@ -117,8 +116,8 @@
 
 [🔝 back to interface](#menu)
 
-<br/><br/>
 <a name="analytics" id="analytics"></a>
+<br/><br/>
 
 <section name="analytics">
   
