@@ -1,78 +1,53 @@
+<a name="menu"></a>
+
 #  👋  Hello, I’m  Gleydson Rodrigues
-<a name="profile" id="profile"></a>
-<p>
+
+<div align="left">
   <a target="_self" href="https://github.com/gw-rodrigues">
       <img align="left" src="https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue">
   </a>
   <!-- <a target="_self" href="https://github.com/gw-rodrigues">
       <img align="left" src="https://img.shields.io/github/followers/gw-rodrigues.svg?style=social&label=Follow&maxAge=2592000">
   </a>-->
-</p>
-<section>
+</div>
+
+<div align="right">
+  <a target="_self" href="https://github.com/gw-rodrigues">
+    <img align="right" src="./github-readme-banner.png">
+  </a>
+</div>
+
+<br/></br>
+
+<section name="profile-info">
   
-  <p>
-    <a target="_self" href="https://github.com/gw-rodrigues">
-      <img align="right" src="./github-readme-banner.png">
-    </a>
-  </p>
-  
-  <br><br>
-  
-  ```javascript
-    interface Profiles {
-  ```
-  <p style="text-align: center;">
+  <div align="center">
     
   🔸 [beginning](#beginning)
   🔸 [historic](#historic)
   🔸 [difficulties](#difficulties)
-  </p>
-  <p style="text-align: center;">
+  </div>
+  <div align="center">
     
   🔸 [techs](#techs)
   🔸 [analytics](#analytics)
-  </p>
+  </div>
   
-  <a name="beginning" id="beginning"></a>
+  <a name="beginning"></a> 
+  <br/>
   
   ```javascript
-    }
-
-    ( myProfile: Profiles ) => (
+  〔 beginning : Profile 〕⟹﹛
+    return (
+      `Started my career in IT in 2008, 
+      when start to love programming!!!`
+    );
+  ﹜
   ```
-  <a name="historic" id="historic"></a>
   
-  <p>〔 beginning 〕⟹﹛<br/>
-    &nbsp;&nbsp;&nbsp;› Started my career in IT in 2008 after join a course; <br>
-    &nbsp;&nbsp;&nbsp;› When start to love programming!!!.<br>
-﹜</p>
+  [🔝 back to interface](#menu)
   
-  [🔝 back to interface](#profile)
-  <a name="difficulties" id="difficulties"></a>
-  
-<p>〔 historic 〕⟹﹛<br>
-    &nbsp;&nbsp;&nbsp;› After start in 2008, i got obsessed in programming universe.<br>
-    &nbsp;&nbsp;&nbsp;› So, i decided keep studing and done some courses bellow:<br>
-    &nbsp;&nbsp;&nbsp;› Installing, Repairing IS, IT Technical and Business Managment and IT degree.<br>
-    &nbsp;&nbsp;&nbsp;› I started the university in IT, not concluded, explain bellow.<br>
-    &nbsp;&nbsp;&nbsp;› Meanwhile, im updating to the new techs, learning in digital plataforms like rocketseat.com.br.<br>
-﹜</p>
-  
-  [🔝 back to interface](#profile)
-
-<p>
-〔 difficulties 〕⟹﹛<br>
-    &nbsp;&nbsp;&nbsp;› While studying, i was with some difficulties, i passed almost all, not one "Financial".<br>
-    &nbsp;&nbsp;&nbsp;› Personal reason, financial, i was force to stop, drop the University.<br>
-    &nbsp;&nbsp;&nbsp;› With one objective, back to IT and university soon as possible and mastery it.<br>
-    &nbsp;&nbsp;&nbsp;› Actually, im studying, updating and mastering some new technologies to come back!<br>
-﹜
-  
- 
-  </p>
-</section>
-
-<section>
+   <div align="right">
     <a target="_self" href="https://www.instagram.com/gwrodrigues/">
       <img align="right" width="120em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
@@ -82,17 +57,52 @@
     <a target="_self" href="https://www.linkedin.com/in/gleyds0n/">
       <img align="right" width="106em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+  </div>
+  
+  <br/>
+  <a name="historic"></a>
+  <br/>
+  
+  ```javascript
+  〔 historic : Profile 〕⟹﹛
+    return (
+      `After start in 2008, i got obsessed in programming universe.
+      So, i decided keep studing and done some courses bellow:
+      Installing, Repairing IS, IT Technical and Business Managment and IT degree.
+      I started the university in IT, not concluded, explain bellow.
+      Meanwhile, im updating to the new techs, learning in digital plataforms like rocketseat.com.br.`
+    )
+  ﹜
+  ```
+  
+  [🔝 back to interface](#menu)
+  
+  <br/>
+  <a name="difficulties" id="difficulties"></a>
+  <br/>
+  
+  
+  ```javascript
+  〔 difficulties : Profile 〕⟹﹛
+    return(
+      `While studying, i was with some difficulties, i passed almost all, not one "Financial".
+      Personal reason, financial, i was force to stop, drop the University.
+      With one objective, back to IT and university soon as possible and mastery it.
+      Actually, im studying, updating and mastering some new technologies to come back!`
+    )
+  ﹜
+  ```
+  [🔝 back to interface](#menu)
+  
 </section>
 
+<br/>
 <a name="techs" id="techs"></a>
+<br/>
 
-<br/><br/><br/>
+<section name="techs">
 
-[🔝 back to interface](#profile)
-
-<section>
-
-  ##
+  ## 🏆 Techs
 
   | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-....Experience....%20-green?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-....Learning....%20-yellow?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-......Future......%20-red?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-.....New Techs.....%20-blue?style=for-the-badge" width="auto" height="40em"></a> |
   |---|---|---|---|
@@ -107,26 +117,26 @@
 
 </section>
 
+[🔝 back to interface](#menu)
+
+<br/>
 <a name="analytics" id="analytics"></a>
-
-##
-<br/>
 <br/>
 
-[🔝 back to interface](#profile)
-
-<section>
+<section name="analytics">
   
   ## ⚙️ GitHub Analytics
-  <p>
+  <div align="left">
     <a href="https://github.com/gw-rodrigues?tab=repositories">
       <img align="left" width="auto" height="125em"  src="https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" />
     </a>
-    </p>
-    <p>
+  </div>
+  <div align="right">
     <a href="https://github.com/gw-rodrigues?tab=repositories">
-      <img align="right" width="auto" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gw-rodrigues&hide_title=true&hide_border=true&theme=tokyonight&layout=compact" />
+      <img width="auto" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gw-rodrigues&hide_title=true&hide_border=true&theme=tokyonight&layout=compact" />
     </a>
-  </p>
-
+  </div>
 </section>
+
+<br/>
+[🔝 back to interface](#menu)
