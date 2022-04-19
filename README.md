@@ -26,18 +26,24 @@
   🔸 [difficulties](#difficulties) 
   🔸 [techs](#techs)
   🔸 [analytics](#analytics)
+  
+  <a name="beginning" id="beginning"></a>
+  
   ```javascript
     }
 
     ( myProfile: Profiles ) => (
   ```
-  <a name="beginning" id="beginning"></a>
+  
+  <a name="historic" id="historic"></a>
+  
   <p>〔 beginning 〕⟹﹛<br/>
     &nbsp;&nbsp;&nbsp;› Started my career in IT in 2008 after join a course; <br>
     &nbsp;&nbsp;&nbsp;› When start to love programming!!!.<br>
 ﹜</p>
   
-  <a name="historic" id="historic"></a>
+  <a name="difficulties" id="difficulties"></a>
+  
 <p>〔 historic 〕⟹﹛<br>
     &nbsp;&nbsp;&nbsp;› After start in 2008, i got obsessed in programming universe.<br>
     &nbsp;&nbsp;&nbsp;› So, i decided keep studing and done some courses bellow:<br>
@@ -46,7 +52,6 @@
     &nbsp;&nbsp;&nbsp;› Meanwhile, im updating to the new techs, learning in digital plataforms like rocketseat.com.br.<br>
 ﹜</p>
 
-  <a name="difficulties" id="difficulties"></a>
 <p>
 〔 difficulties 〕⟹﹛<br>
     &nbsp;&nbsp;&nbsp;› While studying, i was with some difficulties, i passed almost all, not one "Financial".<br>
@@ -58,6 +63,8 @@
  
   </p>
 </section>
+
+<a name="techs" id="techs"></a>
 
 <section>
     <a target="_self" href="https://www.instagram.com/gwrodrigues/">
@@ -73,7 +80,8 @@
 
 <br/><br/>
 
-<a name="techs" id="techs"></a>
+<a name="analytics" id="analytics"></a>
+
 <section>
 
   ##
@@ -93,7 +101,6 @@
 
 </section>
 
-<a name="analytics" id="analytics"></a>
 <section>
 
   ## ⚙️ GitHub Analytics
