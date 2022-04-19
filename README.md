@@ -46,7 +46,7 @@
   ```
   
   [🔝 back to interface](#menu)
-  <br/>
+  <br/><br/>
   
    <div align="right">
     <a target="_self" href="https://www.instagram.com/gwrodrigues/">
@@ -60,9 +60,8 @@
     </a>
   </div>
   
-  <br/>
+  <br/><br/>
   <a name="historic"></a>
-  <br/>
   
   ```javascript
   〔 historic : Profile 〕⟹﹛
@@ -78,9 +77,8 @@
   
   [🔝 back to interface](#menu)
   
-  <br/>
+  <br/><br/>
   <a name="difficulties" id="difficulties"></a>
-  <br/>
   
   
   ```javascript
@@ -97,9 +95,8 @@
   
 </section>
 
-<br/>
+<br/><br/>
 <a name="techs" id="techs"></a>
-<br/>
 
 <section name="techs">
 
@@ -120,9 +117,8 @@
 
 [🔝 back to interface](#menu)
 
-<br/>
+<br/><br/>
 <a name="analytics" id="analytics"></a>
-<br/>
 
 <section name="analytics">
   
