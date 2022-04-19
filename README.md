@@ -66,8 +66,6 @@
   </p>
 </section>
 
-<a name="techs" id="techs"></a>
-
 <section>
     <a target="_self" href="https://www.instagram.com/gwrodrigues/">
       <img align="right" width="120em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -80,7 +78,9 @@
     </a>
 </section>
 
-<br/><br/>
+<a name="techs" id="techs"></a>
+
+<br/><br/><br/>
 
 [🔝 back to interface](#profile)
 
