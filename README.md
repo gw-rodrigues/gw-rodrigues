@@ -13,11 +13,11 @@
 
 <div align="right">
   <a target="_self" href="https://github.com/gw-rodrigues">
-    <img align="right" src="./github-readme-banner.png">
+    <img align="right" width="auto" height="380em" src="https://gist.githubusercontent.com/gw-rodrigues/8eb4dcf0458309ed9c1bf4bbca8a96b6/raw/549fca255617958a4b7ba68cf3178a8e0653c431/profile-card.svg">
   </a>
 </div>
 
-<br/></br><br/>
+<br/></br>
 
 <section name="profile-info">
   
@@ -45,8 +45,6 @@
   ﹜
   ```
   
-  [🔝 back to interface](#menu)
-  
    <div align="right">
     <a target="_self" href="https://www.instagram.com/gwrodrigues/">
       <img align="right" width="120em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -58,6 +56,8 @@
       <img align="right" width="106em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
+  
+  [🔝 back to interface](#menu)
   
   <a name="historic"></a>
   <br/><br/><br/>
