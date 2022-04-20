@@ -120,8 +120,6 @@
 
 </section>
 
-<br/><br/>
-
 [🔝 back to interface](#menu)
 
 
