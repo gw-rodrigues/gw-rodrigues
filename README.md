@@ -99,21 +99,31 @@
 <section name="techs">
 
   ## 🏆 Techs
-
-  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-....Experience....%20-green?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-....Learning....%20-yellow?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-......Future......%20-red?style=for-the-badge" width="auto" height="40em"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/-.....New Techs.....%20-blue?style=for-the-badge" width="auto" height="40em"></a> |
-  |---|---|---|---|
-  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white" style="max-width: 100%;"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" style="max-width: 100%;"></a> ||
-  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="max-width: 100%;"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;"></a> | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a> ||
-  |<a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></a>|  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Express.js-e9ad39?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"></a> ||
-  |<a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"></a>||||
-  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Github-7f7f7f?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a> ||||
-  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;"></a> ||||
-  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;"></a> ||||
-  | <a href="https://github.com/gw-rodrigues"><img align="center" src="https://img.shields.io/badge/visual studio code-404D59?style=for-the-badge&logo=visualstudio&logoColor=white" style="max-width: 100%;"></a> ||||
+  
+  <div align="left">
+  <a target="_self" href="https://github.com/gw-rodrigues">
+    <img align="left" width="380em" height="300em" src="https://gist.githubusercontent.com/gw-rodrigues/48659bc85943a1bbfbb5872498718f31/raw/a9d340a6a14a59fb4a34b0d2ddea7604a6c1f098/Experience-card.svg">
+  </a>
+</div>
+  
+  <div align="right">
+  <a target="_self" href="https://github.com/gw-rodrigues">
+    <img align="right" width="380em" height="300em" src="https://gist.githubusercontent.com/gw-rodrigues/48659bc85943a1bbfbb5872498718f31/raw/a9d340a6a14a59fb4a34b0d2ddea7604a6c1f098/Learning-card.svg">
+  </a>
+</div>
+  
+  <div align="center">
+  <a target="_self" href="https://github.com/gw-rodrigues">
+    <img align="center" width="350em" height="300em" src="https://gist.githubusercontent.com/gw-rodrigues/48659bc85943a1bbfbb5872498718f31/raw/a9d340a6a14a59fb4a34b0d2ddea7604a6c1f098/Future-card.svg">
+  </a>
+</div>
 
 </section>
 
+<br/><br/>
+
 [🔝 back to interface](#menu)
+
 
 <a name="analytics" id="analytics"></a>
 <br/><br/><br/>
