@@ -1,6 +1,6 @@
 <a name="skills" id="menu"></a>
 
-### Welcome to my github
+### ![profile views](https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue&label=VIEWS&style=flat-square) Welcome to my github
 
 <p align="right">
   <a href="#info">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#experience">Experience</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#skills">Skills</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#analytics">Analytics</a>
