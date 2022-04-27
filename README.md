@@ -31,14 +31,13 @@
   </div>
   <br/><br/>
 
-  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/87a79dd6b5f9201ea46c9e5c0273d0450ac29707/skills.svg )
+  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/f76c1d6a94b712bd09d12ea07e53165a9c7f618f/skills.svg)
 
   <div align="right">
     <a name="analytics" id="analytics"></a>
 
   [🔝 back to menu](#menu)
   </div>
-  <br/><br/><br/><br/>
 
   ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/14a43b077c27abe3d0d95444588a405813238c81/analytics.svg)
   
