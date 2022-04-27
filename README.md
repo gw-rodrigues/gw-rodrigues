@@ -11,9 +11,9 @@
 <div align="center">
 
  <a name="info" id="info"></a>
- <a href="https://www.linkedin.com/in/gw-rodrigues/" target="_blank">
+ <a href="https://www.linkedin.com/in/gw-rodrigues/">
  
- ![Header and Intro](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/cca5f5359c6228250215a7c26c558d20fcbf885e/header_intro.svg)
+ ![Header and Intro](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/header_intro.svg)
  </a>
 
   <a name="experience" id="experience"></a>
@@ -21,8 +21,12 @@
 
   [🔝 back to menu](#menu)
   </div>
+  
+  <a href="https://www.linkedin.com/in/gw-rodrigues/">
 
-  ![my experience](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/87a79dd6b5f9201ea46c9e5c0273d0450ac29707/experience.svg)
+  ![my experience](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/experience.svg)
+    
+  </a>
 
   <div align="right">
     <a name="skills" id="skills"></a>
@@ -30,17 +34,25 @@
   [🔝 back to menu](#menu)
   </div>
   <br/><br/>
+  
+  <a href="https://github.com/gw-rodrigues/">
 
-  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/f76c1d6a94b712bd09d12ea07e53165a9c7f618f/skills.svg)
-
+  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/skills.svg)
+  
+  </a>
+    
   <div align="right">
     <a name="analytics" id="analytics"></a>
 
   [🔝 back to menu](#menu)
   </div>
 
-  ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/14a43b077c27abe3d0d95444588a405813238c81/analytics.svg)
+  <a href="https://github.com/gw-rodrigues/">
+
+  ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/analytics.svg)
   
+  </a>
+    
   <br/><br/>
   
   <div align="left">
