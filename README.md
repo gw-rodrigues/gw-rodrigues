@@ -40,7 +40,10 @@
   </div>
   <br/><br/><br/><br/>
 
-  ## ⚙️ GitHub Analytics
+  ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/14a43b077c27abe3d0d95444588a405813238c81/analytics.svg)
+  
+  <br/><br/>
+  
   <div align="left">
   <a href="https://github.com/gw-rodrigues?tab=repositories">
   <img align="left" width="auto" height="125em"  src="https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" /></a>
@@ -50,5 +53,7 @@
   <a href="https://github.com/gw-rodrigues?tab=repositories">
   <img width="auto" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gw-rodrigues&hide_title=true&hide_border=true&theme=tokyonight&layout=compact" /></a>
   </div>
+  
+  <br/><br/>
   
 </div>
