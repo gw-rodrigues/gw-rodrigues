@@ -14,7 +14,7 @@
 
  ![Header and Intro](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/header_intro.svg#gh-dark-mode-only)
    
- ![Header and Intro](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/a8e17ae0f4008f9557b0cf0f3ba297cf56cf6b06/header_intro-light.svg#gh-light-mode-only)
+ ![Header and Intro](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/header_intro-light.svg#gh-light-mode-only)
 
 
   <a name="experience" id="experience"></a>
@@ -25,7 +25,7 @@
   
   ![my experience](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/experience.svg#gh-dark-mode-only)
     
-  ![my experience](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/a8e17ae0f4008f9557b0cf0f3ba297cf56cf6b06/experience-light.svg#gh-light-mode-only)
+  ![my experience](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/experience-light.svg#gh-light-mode-only)
     
 
   <div align="right">
@@ -37,7 +37,7 @@
   
   ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/skills.svg#gh-dark-mode-only)
     
-  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/a8e17ae0f4008f9557b0cf0f3ba297cf56cf6b06/skills-light.svg#gh-light-mode-only)
+  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/skills-light.svg#gh-light-mode-only)
   
 
   <div align="right">
@@ -48,7 +48,7 @@
 
   ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/analytics.svg#gh-dark-mode-only)
     
-  ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/a8e17ae0f4008f9557b0cf0f3ba297cf56cf6b06/analytics-light.svg#gh-light-mode-only)
+  ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/analytics-light.svg#gh-light-mode-only)
   
   <br/><br/>
   
