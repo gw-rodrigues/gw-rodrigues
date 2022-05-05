@@ -52,14 +52,22 @@
   
   <br/><br/>
   
-  <div align="left">
-  <a href="https://github.com/gw-rodrigues?tab=repositories">
-  <img align="left" width="auto" height="125em"  src="https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" /></a>
+  <div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gw-rodrigues&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD6A36&fire=DD6A36&currStreakNum=FFE731&currStreakLabel=FFE731)](https://github.com/gw-rodrigues?tab=repositories)
+    
   </div>
   
-  <div align="right">
-  <a href="https://github.com/gw-rodrigues?tab=repositories">
-  <img width="auto" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gw-rodrigues&hide_title=true&hide_border=true&theme=tokyonight&layout=compact" /></a>
+  <div align="center">
+  
+  [![GitHub Commits](https://github-readme-stats.vercel.app/api?username=gw-rodrigues&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/gw-rodrigues?tab=repositories)
+  
+  </div>
+  
+  <div align="center">
+  
+  [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gw-rodrigues&hide_title=true&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/gw-rodrigues?tab=repositories)
+
   </div>
   
   <br/><br/>
