@@ -1,57 +1,98 @@
 <a name="skills" id="menu"></a>
 
-### ![profile views](https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue&label=VIEWS&style=flat-square) Welcome to my github
+### ![profile views](https://komarev.com/ghpvc/?username=gw-rodrigues&color=blue&label=VIEWS&style=flat-square)
 
 <p align="right">
-  <a href="#info">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#experience">Experience</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#skills">Skills</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#analytics">Analytics</a>
+  <a href="#techstack">Tech Stack</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#projects">Feature Projects</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#aboutme">About me</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="#analytics">Analytics</a>
 </p>
 
-- - - 
+---
 
 <div align="center">
 
- <a name="info" id="info"></a>
+![Banner](./assets/logo.png)
 
- ![Header and Intro](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/header_intro.svg#gh-dark-mode-only)
-   
- ![Header and Intro](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/header_intro-light.svg#gh-light-mode-only)
+</div>
 
+<h1 align="center">Hey, I'm Gleydson 👋</h1>
+<h3 align="center">
+  Frontend Developer | React & Next.js | UI/UX Enthusiast
+</h3>
+<p align="center">
+  <em>Building scalable apps with clean code and sharp design.</em>
+</p>
 
-  <a name="experience" id="experience"></a>
-  <div align="right"> 
+<a name="techstack" id="techstack"></a>
 
-  [🔝 back to menu](#menu)
+<br/><br/>
+
+## 🚀 Tech Stack
+
+### ⚛️ Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🎨 Styling
+
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📦 State Management
+
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+### 🔄 Data Fetching
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### 🧪 Testing & Tools
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7BA3E?style=for-the-badge&logo=prettier&logoColor=white)
+
+<a name="projects" id="projects"></a>
+<br/><br/>
+
+## 📂 Featured Projects
+
+> See all at [github.com/gw-rodrigues](https://github.com/gw-rodrigues?tab=repositories)
+
+- 🔥 **[...](https://github.com/gw-rodrigues/)** – ...
+- 💬 **[...](https://github.com/gw-rodrigues/)** – ...
+- 🧹 **[...](https://github.com/gw-rodrigues/)** – ...
+
+<a name="aboutme" id="aboutme"></a><br/><br/>
+
+## 🧭 About Me
+
+- 🇧🇷🇵🇹 Brazilian & Portuguese based in Luxembourg 🇱🇺
+- 🎨 Passionate about interfaces, detail, and user journeys
+- 🎯 Goal: Beyond Senior — aiming for Tech Lead, Builder & Co-founder roles
+- 📚 Learning daily: UI/UX, business, and productivity
+
+<br/><br/>
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gw-rodrigues/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleydso.rodrigues@gmail.com)
+
+<div align="right">
+    <a name="analytics" id="analytics"></a><br/><br/>
+
+[🔝 back to menu](#menu)
+
   </div>
-  
-  ![my experience](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/experience.svg#gh-dark-mode-only)
-    
-  ![my experience](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/experience-light.svg#gh-light-mode-only)
-    
 
-  <div align="right">
-    <a name="skills" id="skills"></a>
+## 📊 Analytics
 
-  [🔝 back to menu](#menu)
-  </div>
-  <br/><br/>
-  
-  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/skills.svg#gh-dark-mode-only)
-    
-  ![my skilss](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/skills-light.svg#gh-light-mode-only)
-  
+<br/><br/>
 
-  <div align="right">
-    <a name="analytics" id="analytics"></a>
-
-  [🔝 back to menu](#menu)
-  </div>
-
-  ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/0859ac6cb710cfec9571ecff940e8c81/raw/64c7018398b67445ff414c9c5ce024cd359f518e/analytics.svg#gh-dark-mode-only)
-    
-  ![github analytics](https://gist.githubusercontent.com/gw-rodrigues/ca5e63ef56048196e341b7c06a700b54/raw/8ddd880cce42b069e8e7ed0eece071bd5631ecb1/analytics-light.svg#gh-light-mode-only)
-  
-  <br/><br/>
-  
   <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gw-rodrigues&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD6A36&fire=DD6A36&currStreakNum=FFE731&currStreakLabel=FFE731)](https://github.com/gw-rodrigues?tab=repositories)
