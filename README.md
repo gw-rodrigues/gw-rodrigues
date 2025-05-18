@@ -71,9 +71,9 @@
 
 > See all at [github.com/gw-rodrigues](https://github.com/gw-rodrigues?tab=repositories)
 
-- 🔥 **[...](https://github.com/gw-rodrigues/)** – ...
-- 💬 **[...](https://github.com/gw-rodrigues/)** – ...
-- 🧹 **[...](https://github.com/gw-rodrigues/)** – ...
+- ⚽ **[NLW10 Copa](https://github.com/gw-rodrigues/nlw10-copa-fullstack-ts)** – Full-stack app for creating and sharing bet polls, predicting match results, and joining friends’ leagues.
+- 🎮 **[NLW09 eSports](https://github.com/gw-rodrigues/nlw9-esports-fullstack-ts)** – Full-stack matchmaking platform for gamers to connect based on shared interests and game preferences.
+- ☕ **[Coffee Delivery](https://github.com/gw-rodrigues/coffee-delivery-app-react-ts)** – E-commerce app to browse, customize, and order different coffee types with location-based delivery.
 
 <a name="aboutme" id="aboutme"></a><br/><br/>
 
